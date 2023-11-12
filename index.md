@@ -7,3 +7,7 @@ function sayHi(name) {
   console.log("Hello ",name)
 }
 ```
+
+- [x] Learn Unity
+- [x] Learn English
+- [ ] Sleep
